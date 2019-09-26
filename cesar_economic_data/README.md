@@ -12,12 +12,6 @@
     - Source:       U.S. Bureau of Labor Statistics
                     https://www.bls.gov/web/metro/metro_oty_change.htm - Metropolitan Areas
 
-- Wages
-    - File Name:   'source/wages.csv'
-    - Contents:     Quarterly Census of Employment and Wages
-    - Source:       U.S. Bureau of Labor Statistics
-                    https://data.bls.gov/cew/apps/table_maker/v4/table_maker.htm#type=1&year=2019&qtr=1&own=5&ind=10&supp=0 - Metropolitan Areas
-
 - GDP
     - File Name:   'source/gdp.csv'
     - Contents:     Real Gross Domestic Product (GDP) by Metropolitan Area, 2012-2017 (Last available)
