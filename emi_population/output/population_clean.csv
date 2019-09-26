@@ -1,0 +1,981 @@
+,Metropolitan Areas,Pop Est Jul 2018
+0,"Abilene, TX",171451
+1,"Akron, OH",704845
+2,"Albany, GA",153009
+3,"Albany, OR",127335
+4,"Albany-Schenectady-Troy, NY",883169
+5,"Albuquerque, NM",915927
+6,"Alexandria, LA",153044
+7,"Allentown-Bethlehem-Easton, PA-NJ",842913
+8,"Altoona, PA",122492
+9,"Amarillo, TX",265947
+10,"Ames, IA",98105
+11,"Anchorage, AK",399148
+12,"Ann Arbor, MI",370963
+13,"Anniston-Oxford-Jacksonville, AL",114277
+14,"Appleton, WI",237524
+15,"Asheville, NC",459585
+16,"Athens-Clarke County, GA",211306
+17,"Atlanta-Sandy Springs-Roswell, GA",5949951
+18,"Atlantic City-Hammonton, NJ",265429
+19,"Auburn-Opelika, AL",163941
+20,"Augusta-Richmond County, GA-SC",604167
+21,"Austin-Round Rock, TX",2168316
+22,"Bakersfield, CA",896764
+23,"Baltimore-Columbia-Towson, MD",2802789
+24,"Bangor, ME",151096
+25,"Barnstable Town, MA",213413
+26,"Baton Rouge, LA",831310
+27,"Battle Creek, MI",134487
+28,"Bay City, MI",103923
+29,"Beaumont-Port Arthur, TX",409526
+30,"Beckley, WV",117272
+31,"Bellingham, WA",225685
+32,"Bend-Redmond, OR",191996
+33,"Billings, MT",171677
+34,"Binghamton, NY",240219
+35,"Birmingham-Hoover, AL",1151801
+36,"Bismarck, ND",132678
+37,"Blacksburg-Christiansburg-Radford, VA",184029
+38,"Bloomington, IL",188597
+39,"Bloomington, IN",167762
+40,"Bloomsburg-Berwick, PA",83696
+41,"Boise City, ID",730426
+42,"Boston-Cambridge-Newton, MA-NH",4875390
+43,"Boston, MA Metro Division",2030772
+44,"Cambridge-Newton-Framingham, MA Metro Division",2405352
+45,"Rockingham County-Strafford County, NH Metro Division",439266
+46,"Boulder, CO",326078
+47,"Bowling Green, KY",177432
+48,"Bremerton-Silverdale, WA",269805
+49,"Bridgeport-Stamford-Norwalk, CT",943823
+50,"Brownsville-Harlingen, TX",423908
+51,"Brunswick, GA",118456
+52,"Buffalo-Cheektowaga-Niagara Falls, NY",1130152
+53,"Burlington, NC",166436
+54,"Burlington-South Burlington, VT",221083
+55,"California-Lexington Park, MD",112664
+56,"Canton-Massillon, OH",398655
+57,"Cape Coral-Fort Myers, FL",754610
+58,"Cape Girardeau, MO-IL",96982
+59,"Carbondale-Marion, IL",124475
+60,"Carson City, NV",55414
+61,"Casper, WY",79115
+62,"Cedar Rapids, IA",272295
+63,"Chambersburg-Waynesboro, PA",154835
+64,"Champaign-Urbana, IL",239643
+65,"Charleston, WV",211037
+66,"Charleston-North Charleston, SC",787643
+67,"Charlotte-Concord-Gastonia, NC-SC",2569213
+68,"Charlottesville, VA",235232
+69,"Chattanooga, TN-GA",560793
+70,"Cheyenne, WY",98976
+71,"Chicago-Naperville-Elgin, IL-IN-WI",9498716
+72,"Chicago-Naperville-Arlington Heights, IL Metro Division",7288849
+73,"Elgin, IL Metro Division",638359
+74,"Gary, IN Metro Division",701386
+75,"Lake County-Kenosha County, IL-WI Metro Division",870122
+76,"Chico, CA",231256
+77,"Cincinnati, OH-KY-IN",2190209
+78,"Clarksville, TN-KY",292264
+79,"Cleveland, TN",123625
+80,"Cleveland-Elyria, OH",2057009
+81,"Coeur d'Alene, ID",161505
+82,"College Station-Bryan, TX",262431
+83,"Colorado Springs, CO",738939
+84,"Columbia, MO",180005
+85,"Columbia, SC",832666
+86,"Columbus, GA-AL",305451
+87,"Columbus, IN",82753
+88,"Columbus, OH",2106541
+89,"Corpus Christi, TX",452950
+90,"Corvallis, OR",92101
+91,"Crestview-Fort Walton Beach-Destin, FL",278644
+92,"Cumberland, MD-WV",97915
+93,"Dallas-Fort Worth-Arlington, TX",7539711
+94,"Dallas-Plano-Irving, TX Metro Division",5007190
+95,"Fort Worth-Arlington, TX Metro Division",2532521
+96,"Dalton, GA",143983
+97,"Danville, IL",76806
+98,"Daphne-Fairhope-Foley, AL",218022
+99,"Davenport-Moline-Rock Island, IA-IL",381451
+100,"Dayton, OH",806548
+101,"Decatur, AL",152046
+102,"Decatur, IL",104712
+103,"Deltona-Daytona Beach-Ormond Beach, FL",659605
+104,"Denver-Aurora-Lakewood, CO",2932415
+105,"Des Moines-West Des Moines, IA",655409
+106,"Detroit-Warren-Dearborn, MI",4326442
+107,"Detroit-Dearborn-Livonia, MI Metro Division",1753893
+108,"Warren-Troy-Farmington Hills, MI Metro Division",2572549
+109,"Dothan, AL",148245
+110,"Dover, DE",178550
+111,"Dubuque, IA",96854
+112,"Duluth, MN-WI",278799
+113,"Durham-Chapel Hill, NC",575412
+114,"East Stroudsburg, PA",169507
+115,"Eau Claire, WI",168669
+116,"El Centro, CA",181827
+117,"Elizabethtown-Fort Knox, KY",153378
+118,"Elkhart-Goshen, IN",205560
+119,"Elmira, NY",84254
+120,"El Paso, TX",845553
+121,"Enid, OK",60913
+122,"Erie, PA",272061
+123,"Eugene, OR",379611
+124,"Evansville, IN-KY",314672
+125,"Fairbanks, AK",98971
+126,"Fargo, ND-MN",245471
+127,"Farmington, NM",125043
+128,"Fayetteville, NC",387094
+129,"Fayetteville-Springdale-Rogers, AR-MO",549128
+130,"Flagstaff, AZ",142854
+131,"Flint, MI",406892
+132,"Florence, SC",204961
+133,"Florence-Muscle Shoals, AL",147149
+134,"Fond du Lac, WI",103066
+135,"Fort Collins, CO",350518
+136,"Fort Smith, AR-OK",282318
+137,"Fort Wayne, IN",437631
+138,"Fresno, CA",994400
+139,"Gadsden, AL",102501
+140,"Gainesville, FL",288212
+141,"Gainesville, GA",202148
+142,"Gettysburg, PA",102811
+143,"Glens Falls, NY",125462
+144,"Goldsboro, NC",123248
+145,"Grand Forks, ND-MN",102299
+146,"Grand Island, NE",85088
+147,"Grand Junction, CO",153207
+148,"Grand Rapids-Wyoming, MI",1069405
+149,"Grants Pass, OR",87393
+150,"Great Falls, MT",81643
+151,"Greeley, CO",314305
+152,"Green Bay, WI",321591
+153,"Greensboro-High Point, NC",767711
+154,"Greenville, NC",179914
+155,"Greenville-Anderson-Mauldin, SC",906626
+156,"Gulfport-Biloxi-Pascagoula, MS",397261
+157,"Hagerstown-Martinsburg, MD-WV",268049
+158,"Hammond, LA",133777
+159,"Hanford-Corcoran, CA",151366
+160,"Harrisburg-Carlisle, PA",574659
+161,"Harrisonburg, VA",135277
+162,"Hartford-West Hartford-East Hartford, CT",1206300
+163,"Hattiesburg, MS",149414
+164,"Hickory-Lenoir-Morganton, NC",368416
+165,"Hilton Head Island-Bluffton-Beaufort, SC",217686
+166,"Hinesville, GA",80495
+167,"Homosassa Springs, FL",147929
+168,"Hot Springs, AR",99154
+169,"Houma-Thibodaux, LA",209136
+170,"Houston-The Woodlands-Sugar Land, TX",6997384
+171,"Huntington-Ashland, WV-KY-OH",352823
+172,"Huntsville, AL",462693
+173,"Idaho Falls, ID",148904
+174,"Indianapolis-Carmel-Anderson, IN",2048703
+175,"Iowa City, IA",173401
+176,"Ithaca, NY",102793
+177,"Jackson, MI",158823
+178,"Jackson, MS",580166
+179,"Jackson, TN",129209
+180,"Jacksonville, FL",1534701
+181,"Jacksonville, NC",197683
+182,"Janesville-Beloit, WI",163129
+183,"Jefferson City, MO",151520
+184,"Johnson City, TN",202719
+185,"Johnstown, PA",131730
+186,"Jonesboro, AR",132532
+187,"Joplin, MO",178902
+188,"Kahului-Wailuku-Lahaina, HI",167295
+189,"Kalamazoo-Portage, MI",340318
+190,"Kankakee, IL",110024
+191,"Kansas City, MO-KS",2143651
+192,"Kennewick-Richland, WA",296224
+193,"Killeen-Temple, TX",451679
+194,"Kingsport-Bristol-Bristol, TN-VA",306616
+195,"Kingston, NY",178599
+196,"Knoxville, TN",883309
+197,"Kokomo, IN",82366
+198,"La Crosse-Onalaska, WI-MN",136808
+199,"Lafayette, LA",489364
+200,"Lafayette-West Lafayette, IN",221828
+201,"Lake Charles, LA",210080
+202,"Lake Havasu City-Kingman, AZ",209550
+203,"Lakeland-Winter Haven, FL",708009
+204,"Lancaster, PA",543557
+205,"Lansing-East Lansing, MI",481893
+206,"Laredo, TX",275910
+207,"Las Cruces, NM",217522
+208,"Las Vegas-Henderson-Paradise, NV",2231647
+209,"Lawrence, KS",121436
+210,"Lawton, OK",126198
+211,"Lebanon, PA",141314
+212,"Lewiston, ID-WA",63018
+213,"Lewiston-Auburn, ME",107679
+214,"Lexington-Fayette, KY",516697
+215,"Lima, OH",102663
+216,"Lincoln, NE",334590
+217,"Little Rock-North Little Rock-Conway, AR",741104
+218,"Logan, UT-ID",140794
+219,"Longview, TX",219417
+220,"Longview, WA",108987
+221,"Los Angeles-Long Beach-Anaheim, CA",13291486
+222,"Anaheim-Santa Ana-Irvine, CA Metro Division",3185968
+223,"Los Angeles-Long Beach-Glendale, CA Metro Division",10105518
+224,"Louisville/Jefferson County, KY-IN",1297301
+225,"Lubbock, TX",319068
+226,"Lynchburg, VA",263353
+227,"Macon-Bibb County, GA",229737
+228,"Madera, CA",157672
+229,"Madison, WI",660422
+230,"Manchester-Nashua, NH",415247
+231,"Manhattan, KS",97980
+232,"Mankato-North Mankato, MN",101647
+233,"Mansfield, OH",121099
+234,"McAllen-Edinburg-Mission, TX",865939
+235,"Medford, OR",219564
+236,"Memphis, TN-MS-AR",1350620
+237,"Merced, CA",274765
+238,"Miami-Fort Lauderdale-West Palm Beach, FL",6198782
+239,"Fort Lauderdale-Pompano Beach-Deerfield Beach, FL Metro Division",1951260
+240,"Miami-Miami Beach-Kendall, FL Metro Division",2761581
+241,"West Palm Beach-Boca Raton-Delray Beach, FL Metro Division",1485941
+242,"Michigan City-La Porte, IN",110007
+243,"Midland, MI",83209
+244,"Midland, TX",178331
+245,"Milwaukee-Waukesha-West Allis, WI",1576113
+246,"Minneapolis-St. Paul-Bloomington, MN-WI",3629190
+247,"Missoula, MT",118791
+248,"Mobile, AL",413757
+249,"Modesto, CA",549815
+250,"Monroe, LA",176805
+251,"Monroe, MI",150439
+252,"Montgomery, AL",373225
+253,"Morgantown, WV",140259
+254,"Morristown, TN",118581
+255,"Mount Vernon-Anacortes, WA",128206
+256,"Muncie, IN",114772
+257,"Muskegon, MI",173588
+258,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",480891
+259,"Napa, CA",139417
+260,"Naples-Immokalee-Marco Island, FL",378488
+261,"Nashville-Davidson--Murfreesboro--Franklin, TN",1930961
+262,"New Bern, NC",125219
+263,"New Haven-Milford, CT",857620
+264,"New Orleans-Metairie, LA",1270399
+265,"New York-Newark-Jersey City, NY-NJ-PA",19979477
+266,"Dutchess County-Putnam County, NY Metro Division",392610
+267,"Nassau County-Suffolk County, NY Metro Division",2839436
+268,"Newark, NJ-PA Metro Division",2504672
+269,"New York-Jersey City-White Plains, NY-NJ Metro Division",14242759
+270,"Niles-Benton Harbor, MI",154141
+271,"North Port-Sarasota-Bradenton, FL",821573
+272,"Norwich-New London, CT",266784
+273,"Ocala, FL",359977
+274,"Ocean City, NJ",92560
+275,"Odessa, TX",162124
+276,"Ogden-Clearfield, UT",675067
+277,"Oklahoma City, OK",1396445
+278,"Olympia-Tumwater, WA",286419
+279,"Omaha-Council Bluffs, NE-IA",942198
+280,"Orlando-Kissimmee-Sanford, FL",2572962
+281,"Oshkosh-Neenah, WI",171020
+282,"Owensboro, KY",119114
+283,"Oxnard-Thousand Oaks-Ventura, CA",850967
+284,"Palm Bay-Melbourne-Titusville, FL",596849
+285,"Panama City, FL",201451
+286,"Parkersburg-Vienna, WV",90033
+287,"Pensacola-Ferry Pass-Brent, FL",494883
+288,"Peoria, IL",368373
+289,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",6096372
+290,"Camden, NJ Metro Division",1243870
+291,"Montgomery County-Bucks County-Chester County, PA Metro Division",1978845
+292,"Philadelphia, PA Metro Division",2148889
+293,"Wilmington, DE-MD-NJ Metro Division",724768
+294,"Phoenix-Mesa-Scottsdale, AZ",4857962
+295,"Pine Bluff, AR",89515
+296,"Pittsburgh, PA",2324743
+297,"Pittsfield, MA",126348
+298,"Pocatello, ID",87138
+299,"Portland-South Portland, ME",535420
+300,"Portland-Vancouver-Hillsboro, OR-WA",2478810
+301,"Port St. Lucie, FL",482040
+302,"Prescott, AZ",231993
+303,"Providence-Warwick, RI-MA",1621337
+304,"Provo-Orem, UT",633768
+305,"Pueblo, CO",167529
+306,"Punta Gorda, FL",184998
+307,"Racine, WI",196584
+308,"Raleigh, NC",1362540
+309,"Rapid City, SD",148749
+310,"Reading, PA",420152
+311,"Redding, CA",180040
+312,"Reno, NV",469764
+313,"Richmond, VA",1306172
+314,"Riverside-San Bernardino-Ontario, CA",4622361
+315,"Roanoke, VA",314172
+316,"Rochester, MN",219802
+317,"Rochester, NY",1071082
+318,"Rockford, IL",337658
+319,"Rocky Mount, NC",146021
+320,"Rome, GA",97927
+321,"Sacramento--Roseville--Arden-Arcade, CA",2345210
+322,"Saginaw, MI",190800
+323,"St. Cloud, MN",199801
+324,"St. George, UT",171700
+325,"St. Joseph, MO-KS",126490
+326,"St. Louis, MO-IL",2805465
+327,"Salem, OR",432102
+328,"Salinas, CA",435594
+329,"Salisbury, MD-DE",409979
+330,"Salt Lake City, UT",1222540
+331,"San Angelo, TX",119711
+332,"San Antonio-New Braunfels, TX",2518036
+333,"San Diego-Carlsbad, CA",3343364
+334,"San Francisco-Oakland-Hayward, CA",4729484
+335,"Oakland-Hayward-Berkeley, CA Metro Division",2816968
+336,"San Francisco-Redwood City-South San Francisco, CA Metro Division",1652850
+337,"San Rafael, CA Metro Division",259666
+338,"San Jose-Sunnyvale-Santa Clara, CA",1999107
+339,"San Luis Obispo-Paso Robles-Arroyo Grande, CA",284010
+340,"Santa Cruz-Watsonville, CA",274255
+341,"Santa Fe, NM",150056
+342,"Santa Maria-Santa Barbara, CA",446527
+343,"Santa Rosa, CA",499942
+344,"Savannah, GA",389494
+345,"Scranton--Wilkes-Barre--Hazleton, PA",555485
+346,"Seattle-Tacoma-Bellevue, WA",3939363
+347,"Seattle-Bellevue-Everett, WA Metro Division",3048064
+348,"Tacoma-Lakewood, WA Metro Division",891299
+349,"Sebastian-Vero Beach, FL",157413
+350,"Sebring, FL",105424
+351,"Sheboygan, WI",115456
+352,"Sherman-Denison, TX",133991
+353,"Shreveport-Bossier City, LA",436341
+354,"Sierra Vista-Douglas, AZ",126770
+355,"Sioux City, IA-NE-SD",169045
+356,"Sioux Falls, SD",265653
+357,"South Bend-Mishawaka, IN-MI",322424
+358,"Spartanburg, SC",341298
+359,"Spokane-Spokane Valley, WA",573493
+360,"Springfield, IL",207636
+361,"Springfield, MA",631761
+362,"Springfield, MO",466978
+363,"Springfield, OH",134585
+364,"State College, PA",162805
+365,"Staunton-Waynesboro, VA",123007
+366,"Stockton-Lodi, CA",752660
+367,"Sumter, SC",106512
+368,"Syracuse, NY",650502
+369,"Tallahassee, FL",385145
+370,"Tampa-St. Petersburg-Clearwater, FL",3142663
+371,"Terre Haute, IN",169725
+372,"Texarkana, TX-AR",150242
+373,"The Villages, FL",128754
+374,"Toledo, OH",602871
+375,"Topeka, KS",232594
+376,"Trenton, NJ",369811
+377,"Tucson, AZ",1039073
+378,"Tulsa, OK",993797
+379,"Tuscaloosa, AL",243575
+380,"Twin Falls, ID",110096
+381,"Tyler, TX",230221
+382,"Urban Honolulu, HI",980080
+383,"Utica-Rome, NY",291410
+384,"Valdosta, GA",146174
+385,"Vallejo-Fairfield, CA",446610
+386,"Victoria, TX",99619
+387,"Vineland-Bridgeton, NJ",150972
+388,"Virginia Beach-Norfolk-Newport News, VA-NC",1728733
+389,"Visalia-Porterville, CA",465861
+390,"Waco, TX",271942
+391,"Walla Walla, WA",64981
+392,"Warner Robins, GA",193835
+393,"Washington-Arlington-Alexandria, DC-VA-MD-WV",6249950
+394,"Silver Spring-Frederick-Rockville, MD Metro Division",1308215
+395,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Division",4941735
+396,"Waterloo-Cedar Falls, IA",169659
+397,"Watertown-Fort Drum, NY",111755
+398,"Wausau, WI",135428
+399,"Weirton-Steubenville, WV-OH",117064
+400,"Wenatchee, WA",119943
+401,"Wheeling, WV-OH",140045
+402,"Wichita, KS",644888
+403,"Wichita Falls, TX",151306
+404,"Williamsport, PA",113664
+405,"Wilmington, NC",294436
+406,"Winchester, VA-WV",139810
+407,"Winston-Salem, NC",671456
+408,"Worcester, MA-CT",947866
+409,"Yakima, WA",251446
+410,"York-Hanover, PA",448273
+411,"Youngstown-Warren-Boardman, OH-PA",538952
+412,"Yuba City, CA",174848
+413,"Yuma, AZ",212128
+414,In micropolitan statistical area,27627895
+415,"Aberdeen, SD Micro Area",43191
+416,"Aberdeen, WA Micro Area",73901
+417,"Ada, OK Micro Area",38247
+418,"Adrian, MI Micro Area",98266
+419,"Alamogordo, NM Micro Area",66781
+420,"Albemarle, NC Micro Area",62075
+421,"Albert Lea, MN Micro Area",30444
+422,"Albertville, AL Micro Area",96109
+423,"Alexander City, AL Micro Area",40497
+424,"Alexandria, MN Micro Area",37964
+425,"Alice, TX Micro Area",40822
+426,"Alma, MI Micro Area",40599
+427,"Alpena, MI Micro Area",28360
+428,"Altus, OK Micro Area",24949
+429,"Americus, GA Micro Area",34969
+430,"Amsterdam, NY Micro Area",49455
+431,"Andrews, TX Micro Area",18128
+432,"Angola, IN Micro Area",34586
+433,"Arcadia, FL Micro Area",37489
+434,"Ardmore, OK Micro Area",48177
+435,"Arkadelphia, AR Micro Area",22061
+436,"Arkansas City-Winfield, KS Micro Area",35218
+437,"Ashland, OH Micro Area",53745
+438,"Ashtabula, OH Micro Area",97493
+439,"Astoria, OR Micro Area",39764
+440,"Atchison, KS Micro Area",16193
+441,"Athens, OH Micro Area",65818
+442,"Athens, TN Micro Area",53285
+443,"Athens, TX Micro Area",82299
+444,"Atmore, AL Micro Area",36748
+445,"Auburn, IN Micro Area",43226
+446,"Auburn, NY Micro Area",77145
+447,"Augusta-Waterville, ME Micro Area",122083
+448,"Austin, MN Micro Area",40011
+449,"Bainbridge, GA Micro Area",26575
+450,"Baraboo, WI Micro Area",64249
+451,"Bardstown, KY Micro Area",45851
+452,"Barre, VT Micro Area",58140
+453,"Bartlesville, OK Micro Area",51843
+454,"Bastrop, LA Micro Area",25398
+455,"Batavia, NY Micro Area",57511
+456,"Batesville, AR Micro Area",37678
+457,"Bay City, TX Micro Area",36552
+458,"Beatrice, NE Micro Area",21493
+459,"Beaver Dam, WI Micro Area",87847
+460,"Bedford, IN Micro Area",45668
+461,"Beeville, TX Micro Area",32587
+462,"Bellefontaine, OH Micro Area",45358
+463,"Bemidji, MN Micro Area",46847
+464,"Bennettsville, SC Micro Area",26398
+465,"Bennington, VT Micro Area",35631
+466,"Berlin, NH-VT Micro Area",37839
+467,"Big Rapids, MI Micro Area",43545
+468,"Big Spring, TX Micro Area",37847
+469,"Big Stone Gap, VA Micro Area",56503
+470,"Blackfoot, ID Micro Area",46236
+471,"Bluefield, WV-VA Micro Area",99986
+472,"Blytheville, AR Micro Area",41239
+473,"Bogalusa, LA Micro Area",46582
+474,"Bonham, TX Micro Area",35286
+475,"Boone, IA Micro Area",26346
+476,"Boone, NC Micro Area",55945
+477,"Borger, TX Micro Area",21198
+478,"Bozeman, MT Micro Area",111876
+479,"Bradford, PA Micro Area",40968
+480,"Brainerd, MN Micro Area",94408
+481,"Branson, MO Micro Area",87601
+482,"Breckenridge, CO Micro Area",31007
+483,"Brenham, TX Micro Area",35108
+484,"Brevard, NC Micro Area",34215
+485,"Brookhaven, MS Micro Area",34205
+486,"Brookings, OR Micro Area",22813
+487,"Brookings, SD Micro Area",35232
+488,"Brownsville, TN Micro Area",17335
+489,"Brownwood, TX Micro Area",37924
+490,"Bucyrus, OH Micro Area",41550
+491,"Burley, ID Micro Area",44689
+492,"Burlington, IA-IL Micro Area",45847
+493,"Butte-Silver Bow, MT Micro Area",34993
+494,"Cadillac, MI Micro Area",48579
+495,"Calhoun, GA Micro Area",57685
+496,"Cambridge, MD Micro Area",31998
+497,"Cambridge, OH Micro Area",39022
+498,"Camden, AR Micro Area",28883
+499,"Campbellsville, KY Micro Area",25549
+500,"Cañon City, CO Micro Area",48021
+501,"Canton, IL Micro Area",34844
+502,"Carlsbad-Artesia, NM Micro Area",57900
+503,"Carroll, IA Micro Area",20154
+504,"Cedar City, UT Micro Area",52775
+505,"Cedartown, GA Micro Area",42470
+506,"Celina, OH Micro Area",40959
+507,"Central City, KY Micro Area",30774
+508,"Centralia, IL Micro Area",37620
+509,"Centralia, WA Micro Area",79604
+510,"Charleston-Mattoon, IL Micro Area",61693
+511,"Chillicothe, OH Micro Area",76931
+512,"Claremont-Lebanon, NH-VT Micro Area",217215
+513,"Clarksburg, WV Micro Area",92822
+514,"Clarksdale, MS Micro Area",22628
+515,"Clearlake, CA Micro Area",64382
+516,"Cleveland, MS Micro Area",31333
+517,"Clewiston, FL Micro Area",41556
+518,"Clinton, IA Micro Area",46518
+519,"Clovis, NM Micro Area",49437
+520,"Coffeyville, KS Micro Area",32120
+521,"Coldwater, MI Micro Area",43622
+522,"Columbus, MS Micro Area",58930
+523,"Columbus, NE Micro Area",33363
+524,"Concord, NH Micro Area",151132
+525,"Connersville, IN Micro Area",23047
+526,"Cookeville, TN Micro Area",112669
+527,"Coos Bay, OR Micro Area",64389
+528,"Cordele, GA Micro Area",22601
+529,"Corinth, MS Micro Area",36925
+530,"Cornelia, GA Micro Area",45388
+531,"Corning, NY Micro Area",95796
+532,"Corsicana, TX Micro Area",49565
+533,"Cortland, NY Micro Area",47823
+534,"Coshocton, OH Micro Area",36629
+535,"Craig, CO Micro Area",13188
+536,"Crawfordsville, IN Micro Area",38346
+537,"Crescent City, CA Micro Area",27828
+538,"Crossville, TN Micro Area",59673
+539,"Cullman, AL Micro Area",83442
+540,"Cullowhee, NC Micro Area",43327
+541,"Danville, KY Micro Area",54744
+542,"Danville, VA Micro Area",101642
+543,"Dayton, TN Micro Area",33044
+544,"Decatur, IN Micro Area",35636
+545,"Defiance, OH Micro Area",38165
+546,"Del Rio, TX Micro Area",49208
+547,"Deming, NM Micro Area",23963
+548,"DeRidder, LA Micro Area",37253
+549,"Dickinson, ND Micro Area",30997
+550,"Dixon, IL Micro Area",34223
+551,"Dodge City, KS Micro Area",33888
+552,"Douglas, GA Micro Area",43093
+553,"Dublin, GA Micro Area",57033
+554,"DuBois, PA Micro Area",79388
+555,"Dumas, TX Micro Area",21485
+556,"Duncan, OK Micro Area",43265
+557,"Dunn, NC Micro Area",134214
+558,"Durango, CO Micro Area",56310
+559,"Durant, OK Micro Area",47192
+560,"Dyersburg, TN Micro Area",37320
+561,"Eagle Pass, TX Micro Area",58485
+562,"Easton, MD Micro Area",36968
+563,"Edwards, CO Micro Area",54993
+564,"Effingham, IL Micro Area",34208
+565,"El Campo, TX Micro Area",41619
+566,"El Dorado, AR Micro Area",39126
+567,"Elizabeth City, NC Micro Area",63771
+568,"Elk City, OK Micro Area",21709
+569,"Elkins, WV Micro Area",28823
+570,"Elko, NV Micro Area",54463
+571,"Ellensburg, WA Micro Area",47364
+572,"Emporia, KS Micro Area",33406
+573,"Enterprise, AL Micro Area",51909
+574,"Escanaba, MI Micro Area",35857
+575,"Española, NM Micro Area",39006
+576,"Eufaula, AL-GA Micro Area",27160
+577,"Eureka-Arcata-Fortuna, CA Micro Area",136373
+578,"Evanston, WY Micro Area",20299
+579,"Fairfield, IA Micro Area",18381
+580,"Fairmont, MN Micro Area",19785
+581,"Fairmont, WV Micro Area",56097
+582,"Fallon, NV Micro Area",24440
+583,"Faribault-Northfield, MN Micro Area",66523
+584,"Farmington, MO Micro Area",66692
+585,"Fergus Falls, MN Micro Area",58812
+586,"Fernley, NV Micro Area",55808
+587,"Findlay, OH Micro Area",75930
+588,"Fitzgerald, GA Micro Area",16787
+589,"Forest City, NC Micro Area",66826
+590,"Forrest City, AR Micro Area",25439
+591,"Fort Dodge, IA Micro Area",36277
+592,"Fort Leonard Wood, MO Micro Area",52014
+593,"Fort Madison-Keokuk, IA-IL-MO Micro Area",58741
+594,"Fort Morgan, CO Micro Area",28558
+595,"Fort Payne, AL Micro Area",71385
+596,"Fort Polk South, LA Micro Area",48860
+597,"Frankfort, IN Micro Area",32250
+598,"Frankfort, KY Micro Area",73478
+599,"Fredericksburg, TX Micro Area",26804
+600,"Freeport, IL Micro Area",44753
+601,"Fremont, NE Micro Area",36791
+602,"Fremont, OH Micro Area",58799
+603,"Gaffney, SC Micro Area",57078
+604,"Gainesville, TX Micro Area",40574
+605,"Galesburg, IL Micro Area",50112
+606,"Gallup, NM Micro Area",72290
+607,"Garden City, KS Micro Area",40554
+608,"Gardnerville Ranchos, NV Micro Area",48467
+609,"Georgetown, SC Micro Area",62249
+610,"Gillette, WY Micro Area",46140
+611,"Glasgow, KY Micro Area",54206
+612,"Glenwood Springs, CO Micro Area",77720
+613,"Gloversville, NY Micro Area",53591
+614,"Grand Rapids, MN Micro Area",45108
+615,"Grants, NM Micro Area",26746
+616,"Great Bend, KS Micro Area",26111
+617,"Greeneville, TN Micro Area",69087
+618,"Greenfield Town, MA Micro Area",70963
+619,"Greensburg, IN Micro Area",26794
+620,"Greenville, MS Micro Area",45063
+621,"Greenville, OH Micro Area",51323
+622,"Greenwood, MS Micro Area",38830
+623,"Greenwood, SC Micro Area",95282
+624,"Grenada, MS Micro Area",21055
+625,"Guymon, OK Micro Area",20455
+626,"Hailey, ID Micro Area",29088
+627,"Hannibal, MO Micro Area",38804
+628,"Harrison, AR Micro Area",45285
+629,"Hastings, NE Micro Area",31511
+630,"Hays, KS Micro Area",28710
+631,"Heber, UT Micro Area",33240
+632,"Helena, MT Micro Area",80797
+633,"Helena-West Helena, AR Micro Area",18029
+634,"Henderson, NC Micro Area",44582
+635,"Hereford, TX Micro Area",18760
+636,"Hermiston-Pendleton, OR Micro Area",88888
+637,"Hillsdale, MI Micro Area",45749
+638,"Hilo, HI Micro Area",200983
+639,"Hobbs, NM Micro Area",69611
+640,"Holland, MI Micro Area",117327
+641,"Hood River, OR Micro Area",23428
+642,"Hope, AR Micro Area",30067
+643,"Houghton, MI Micro Area",38332
+644,"Hudson, NY Micro Area",59916
+645,"Huntingdon, PA Micro Area",45168
+646,"Huntington, IN Micro Area",36240
+647,"Huntsville, TX Micro Area",87220
+648,"Huron, SD Micro Area",18883
+649,"Hutchinson, KS Micro Area",62342
+650,"Hutchinson, MN Micro Area",35873
+651,"Indiana, PA Micro Area",84501
+652,"Indianola, MS Micro Area",25735
+653,"Ionia, MI Micro Area",64210
+654,"Iron Mountain, MI-WI Micro Area",29704
+655,"Jackson, OH Micro Area",32384
+656,"Jackson, WY-ID Micro Area",34721
+657,"Jacksonville, IL Micro Area",38902
+658,"Jacksonville, TX Micro Area",52592
+659,"Jamestown, ND Micro Area",20917
+660,"Jamestown-Dunkirk-Fredonia, NY Micro Area",127939
+661,"Jasper, IN Micro Area",54975
+662,"Jefferson, GA Micro Area",70422
+663,"Jennings, LA Micro Area",31582
+664,"Jesup, GA Micro Area",29808
+665,"Junction City, KS Micro Area",32594
+666,"Juneau, AK Micro Area",32113
+667,"Kalispell, MT Micro Area",102106
+668,"Kapaa, HI Micro Area",72133
+669,"Kearney, NE Micro Area",56159
+670,"Keene, NH Micro Area",76493
+671,"Kendallville, IN Micro Area",47532
+672,"Kennett, MO Micro Area",29423
+673,"Kerrville, TX Micro Area",52405
+674,"Ketchikan, AK Micro Area",13918
+675,"Key West, FL Micro Area",75027
+676,"Kill Devil Hills, NC Micro Area",40632
+677,"Kingsville, TX Micro Area",31571
+678,"Kinston, NC Micro Area",55976
+679,"Kirksville, MO Micro Area",29938
+680,"Klamath Falls, OR Micro Area",67653
+681,"Laconia, NH Micro Area",61022
+682,"La Grande, OR Micro Area",26461
+683,"LaGrange, GA Micro Area",70034
+684,"Lake City, FL Micro Area",70503
+685,"Lamesa, TX Micro Area",12619
+686,"Laramie, WY Micro Area",38601
+687,"Las Vegas, NM Micro Area",27591
+688,"Laurel, MS Micro Area",84889
+689,"Laurinburg, NC Micro Area",34810
+690,"Lawrenceburg, TN Micro Area",43734
+691,"Lebanon, MO Micro Area",35713
+692,"Levelland, TX Micro Area",22980
+693,"Lewisburg, PA Micro Area",44785
+694,"Lewisburg, TN Micro Area",33683
+695,"Lewistown, PA Micro Area",46222
+696,"Lexington, NE Micro Area",25705
+697,"Liberal, KS Micro Area",21780
+698,"Lincoln, IL Micro Area",28925
+699,"Lock Haven, PA Micro Area",38684
+700,"Logan, WV Micro Area",32607
+701,"Logansport, IN Micro Area",37955
+702,"London, KY Micro Area",128215
+703,"Los Alamos, NM Micro Area",19101
+704,"Ludington, MI Micro Area",29100
+705,"Lufkin, TX Micro Area",87092
+706,"Lumberton, NC Micro Area",131831
+707,"Macomb, IL Micro Area",29955
+708,"Madison, IN Micro Area",32208
+709,"Madisonville, KY Micro Area",45068
+710,"Magnolia, AR Micro Area",23537
+711,"Malone, NY Micro Area",50293
+712,"Malvern, AR Micro Area",33701
+713,"Manitowoc, WI Micro Area",79074
+714,"Marietta, OH Micro Area",60155
+715,"Marinette, WI-MI Micro Area",63417
+716,"Marion, IN Micro Area",65936
+717,"Marion, NC Micro Area",45507
+718,"Marion, OH Micro Area",65256
+719,"Marquette, MI Micro Area",66516
+720,"Marshall, MN Micro Area",25629
+721,"Marshall, MO Micro Area",22895
+722,"Marshall, TX Micro Area",66726
+723,"Marshalltown, IA Micro Area",39981
+724,"Martin, TN Micro Area",33415
+725,"Martinsville, VA Micro Area",63855
+726,"Maryville, MO Micro Area",22304
+727,"Mason City, IA Micro Area",50100
+728,"Mayfield, KY Micro Area",37317
+729,"Maysville, KY Micro Area",17150
+730,"McAlester, OK Micro Area",43877
+731,"McComb, MS Micro Area",51889
+732,"McMinnville, TN Micro Area",40878
+733,"McPherson, KS Micro Area",28537
+734,"Meadville, PA Micro Area",85063
+735,"Menomonie, WI Micro Area",45131
+736,"Meridian, MS Micro Area",100948
+737,"Merrill, WI Micro Area",27689
+738,"Mexico, MO Micro Area",25473
+739,"Miami, OK Micro Area",31175
+740,"Middlesborough, KY Micro Area",26569
+741,"Milledgeville, GA Micro Area",53171
+742,"Mineral Wells, TX Micro Area",28875
+743,"Minot, ND Micro Area",75934
+744,"Mitchell, SD Micro Area",23166
+745,"Moberly, MO Micro Area",24763
+746,"Montrose, CO Micro Area",42214
+747,"Morehead City, NC Micro Area",69524
+748,"Morgan City, LA Micro Area",49774
+749,"Moscow, ID Micro Area",40134
+750,"Moses Lake, WA Micro Area",97331
+751,"Moultrie, GA Micro Area",45592
+752,"Mountain Home, AR Micro Area",41619
+753,"Mountain Home, ID Micro Area",27259
+754,"Mount Airy, NC Micro Area",71948
+755,"Mount Pleasant, MI Micro Area",70562
+756,"Mount Pleasant, TX Micro Area",33033
+757,"Mount Sterling, KY Micro Area",47037
+758,"Mount Vernon, IL Micro Area",37820
+759,"Mount Vernon, OH Micro Area",61893
+760,"Murray, KY Micro Area",39135
+761,"Muscatine, IA Micro Area",42929
+762,"Muskogee, OK Micro Area",68362
+763,"Nacogdoches, TX Micro Area",65711
+764,"Natchez, MS-LA Micro Area",50764
+765,"Natchitoches, LA Micro Area",38659
+766,"Newberry, SC Micro Area",38520
+767,"New Castle, IN Micro Area",48271
+768,"New Castle, PA Micro Area",86184
+769,"New Philadelphia-Dover, OH Micro Area",92176
+770,"Newport, OR Micro Area",49388
+771,"Newport, TN Micro Area",35774
+772,"Newton, IA Micro Area",37147
+773,"New Ulm, MN Micro Area",25111
+774,"Nogales, AZ Micro Area",46511
+775,"Norfolk, NE Micro Area",48504
+776,"North Platte, NE Micro Area",36426
+777,"North Vernon, IN Micro Area",27611
+778,"North Wilkesboro, NC Micro Area",68557
+779,"Norwalk, OH Micro Area",58504
+780,"Oak Harbor, WA Micro Area",84460
+781,"Ogdensburg-Massena, NY Micro Area",108047
+782,"Oil City, PA Micro Area",51266
+783,"Okeechobee, FL Micro Area",41537
+784,"Olean, NY Micro Area",76840
+785,"Oneonta, NY Micro Area",59749
+786,"Ontario, OR-ID Micro Area",54276
+787,"Opelousas, LA Micro Area",82764
+788,"Orangeburg, SC Micro Area",86934
+789,"Oskaloosa, IA Micro Area",22000
+790,"Othello, WA Micro Area",19759
+791,"Ottawa, KS Micro Area",25631
+792,"Ottawa-Peru, IL Micro Area",148163
+793,"Ottumwa, IA Micro Area",44222
+794,"Owatonna, MN Micro Area",36803
+795,"Owosso, MI Micro Area",68192
+796,"Oxford, MS Micro Area",54793
+797,"Oxford, NC Micro Area",60115
+798,"Ozark, AL Micro Area",48956
+799,"Paducah, KY-IL Micro Area",96647
+800,"Pahrump, NV Micro Area",45346
+801,"Palatka, FL Micro Area",74163
+802,"Palestine, TX Micro Area",58057
+803,"Pampa, TX Micro Area",21895
+804,"Paragould, AR Micro Area",45325
+805,"Paris, TN Micro Area",32358
+806,"Paris, TX Micro Area",49728
+807,"Parsons, KS Micro Area",19964
+808,"Payson, AZ Micro Area",53889
+809,"Pecos, TX Micro Area",15695
+810,"Pella, IA Micro Area",33407
+811,"Peru, IN Micro Area",35567
+812,"Picayune, MS Micro Area",55387
+813,"Pierre, SD Micro Area",22064
+814,"Pinehurst-Southern Pines, NC Micro Area",98682
+815,"Pittsburg, KS Micro Area",39019
+816,"Plainview, TX Micro Area",33830
+817,"Platteville, WI Micro Area",51554
+818,"Plattsburgh, NY Micro Area",80695
+819,"Plymouth, IN Micro Area",46248
+820,"Point Pleasant, WV-OH Micro Area",56697
+821,"Ponca City, OK Micro Area",44161
+822,"Pontiac, IL Micro Area",35761
+823,"Poplar Bluff, MO Micro Area",42639
+824,"Portales, NM Micro Area",18743
+825,"Port Angeles, WA Micro Area",76737
+826,"Port Clinton, OH Micro Area",40769
+827,"Port Lavaca, TX Micro Area",21561
+828,"Portsmouth, OH Micro Area",75502
+829,"Pottsville, PA Micro Area",142067
+830,"Price, UT Micro Area",20269
+831,"Prineville, OR Micro Area",23867
+832,"Pullman, WA Micro Area",49791
+833,"Quincy, IL-MO Micro Area",75546
+834,"Raymondville, TX Micro Area",21515
+835,"Red Bluff, CA Micro Area",63916
+836,"Red Wing, MN Micro Area",46403
+837,"Rexburg, ID Micro Area",52472
+838,"Richmond, IN Micro Area",65936
+839,"Richmond-Berea, KY Micro Area",109118
+840,"Rio Grande City, TX Micro Area",64525
+841,"Riverton, WY Micro Area",39531
+842,"Roanoke Rapids, NC Micro Area",70250
+843,"Rochelle, IL Micro Area",50923
+844,"Rockingham, NC Micro Area",44887
+845,"Rock Springs, WY Micro Area",43051
+846,"Rolla, MO Micro Area",44732
+847,"Roseburg, OR Micro Area",110283
+848,"Roswell, NM Micro Area",64689
+849,"Ruidoso, NM Micro Area",19556
+850,"Russellville, AR Micro Area",85535
+851,"Ruston, LA Micro Area",47196
+852,"Rutland, VT Micro Area",58672
+853,"Safford, AZ Micro Area",38072
+854,"St. Marys, GA Micro Area",53677
+855,"St. Marys, PA Micro Area",30169
+856,"Salem, OH Micro Area",102665
+857,"Salina, KS Micro Area",60203
+858,"Sandpoint, ID Micro Area",44727
+859,"Sandusky, OH Micro Area",74615
+860,"Sanford, NC Micro Area",61452
+861,"Sault Ste. Marie, MI Micro Area",37517
+862,"Sayre, PA Micro Area",60833
+863,"Scottsbluff, NE Micro Area",37906
+864,"Scottsboro, AL Micro Area",51736
+865,"Searcy, AR Micro Area",78727
+866,"Sedalia, MO Micro Area",42542
+867,"Selinsgrove, PA Micro Area",40540
+868,"Selma, AL Micro Area",38310
+869,"Seneca, SC Micro Area",78374
+870,"Seneca Falls, NY Micro Area",34300
+871,"Sevierville, TN Micro Area",97892
+872,"Seymour, IN Micro Area",44111
+873,"Shawano, WI Micro Area",45454
+874,"Shawnee, OK Micro Area",72679
+875,"Shelby, NC Micro Area",97645
+876,"Shelbyville, TN Micro Area",49038
+877,"Shelton, WA Micro Area",65507
+878,"Sheridan, WY Micro Area",30233
+879,"Show Low, AZ Micro Area",110445
+880,"Sidney, OH Micro Area",48627
+881,"Sikeston, MO Micro Area",38458
+882,"Silver City, NM Micro Area",27346
+883,"Snyder, TX Micro Area",16866
+884,"Somerset, KY Micro Area",64623
+885,"Somerset, PA Micro Area",73952
+886,"Sonora, CA Micro Area",54539
+887,"Spearfish, SD Micro Area",25741
+888,"Spencer, IA Micro Area",16134
+889,"Spirit Lake, IA Micro Area",17153
+890,"Starkville, MS Micro Area",49599
+891,"Statesboro, GA Micro Area",77296
+892,"Steamboat Springs, CO Micro Area",25733
+893,"Stephenville, TX Micro Area",42446
+894,"Sterling, CO Micro Area",21528
+895,"Sterling, IL Micro Area",55626
+896,"Stevens Point, WI Micro Area",70942
+897,"Stillwater, OK Micro Area",82040
+898,"Storm Lake, IA Micro Area",19874
+899,"Sturgis, MI Micro Area",61043
+900,"Sulphur Springs, TX Micro Area",36810
+901,"Summerville, GA Micro Area",24790
+902,"Summit Park, UT Micro Area",41933
+903,"Sunbury, PA Micro Area",91083
+904,"Susanville, CA Micro Area",30802
+905,"Sweetwater, TX Micro Area",14751
+906,"Tahlequah, OK Micro Area",48675
+907,"Talladega-Sylacauga, AL Micro Area",90543
+908,"Taos, NM Micro Area",32835
+909,"Taylorville, IL Micro Area",32661
+910,"The Dalles, OR Micro Area",26505
+911,"Thomaston, GA Micro Area",26215
+912,"Thomasville, GA Micro Area",44448
+913,"Tiffin, OH Micro Area",55207
+914,"Tifton, GA Micro Area",40571
+915,"Toccoa, GA Micro Area",26035
+916,"Torrington, CT Micro Area",181111
+917,"Traverse City, MI Micro Area",149914
+918,"Troy, AL Micro Area",33338
+919,"Truckee-Grass Valley, CA Micro Area",99696
+920,"Tullahoma-Manchester, TN Micro Area",104001
+921,"Tupelo, MS Micro Area",140552
+922,"Ukiah, CA Micro Area",87606
+923,"Union City, TN-KY Micro Area",36387
+924,"Urbana, OH Micro Area",38754
+925,"Uvalde, TX Micro Area",26846
+926,"Valley, AL Micro Area",33615
+927,"Van Wert, OH Micro Area",28281
+928,"Vermillion, SD Micro Area",14041
+929,"Vernal, UT Micro Area",35438
+930,"Vernon, TX Micro Area",12820
+931,"Vicksburg, MS Micro Area",55178
+932,"Vidalia, GA Micro Area",36080
+933,"Vincennes, IN Micro Area",36895
+934,"Vineyard Haven, MA Micro Area",17352
+935,"Wabash, IN Micro Area",31280
+936,"Wahpeton, ND-MN Micro Area",22493
+937,"Wapakoneta, OH Micro Area",45804
+938,"Warren, PA Micro Area",39498
+939,"Warrensburg, MO Micro Area",53652
+940,"Warsaw, IN Micro Area",79344
+941,"Washington, IN Micro Area",33147
+942,"Washington, NC Micro Area",47079
+943,"Washington Court House, OH Micro Area",28666
+944,"Watertown, SD Micro Area",28015
+945,"Watertown-Fort Atkinson, WI Micro Area",85129
+946,"Wauchula, FL Micro Area",27245
+947,"Waycross, GA Micro Area",55069
+948,"Weatherford, OK Micro Area",29036
+949,"West Plains, MO Micro Area",40076
+950,"West Point, MS Micro Area",19386
+951,"Whitewater-Elkhorn, WI Micro Area",103718
+952,"Williston, ND Micro Area",35350
+953,"Willmar, MN Micro Area",42855
+954,"Wilmington, OH Micro Area",42057
+955,"Wilson, NC Micro Area",81455
+956,"Winnemucca, NV Micro Area",16786
+957,"Winona, MN Micro Area",50825
+958,"Wisconsin Rapids-Marshfield, WI Micro Area",73055
+959,"Woodward, OK Micro Area",20222
+960,"Wooster, OH Micro Area",115967
+961,"Worthington, MN Micro Area",21924
+962,"Yankton, SD Micro Area",22869
+963,"Zanesville, OH Micro Area",86183
+964,"Zapata, TX Micro Area",14190
+965,Puerto Rico,3195153
+966,In metropolitan statistical area,3054478
+967,"Aguadilla-Isabela, PR",289735
+968,"Arecibo, PR",174271
+969,"Guayama, PR",73000
+970,"Mayagüez, PR",87448
+971,"Ponce, PR",285709
+972,"San Germán, PR",121078
+973,"San Juan-Carolina-Caguas, PR",2023237
+974,In micropolitan statistical area,117214
+975,"Adjuntas, PR Micro Area",17302
+976,"Coamo, PR Micro Area",37845
+977,"Coco, PR Micro Area",27083
+978,"Jayuya, PR Micro Area",13947
+979,"Santa Isabel, PR Micro Area",21037
