@@ -1,6 +1,6 @@
-# Income Data
+# Internet Access Data
 ## Sources of Data:
-- Wages
+- Internet Access Data
     - File Name:   'source/internet.csv'
     - Contents:     Internet Connection Data for Cities
     - Source:       Goberning.com
