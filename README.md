@@ -1,4 +1,4 @@
-# Ten best technologically sound counties suitable for mobile broadband in U.S
+# Ten most Suitable counties for Mobile Broadband Technology in the U.S
 
 The purpouse of this project is to analyze in which US county areas it would be worth investing in Mobile Internet Technology.
 
